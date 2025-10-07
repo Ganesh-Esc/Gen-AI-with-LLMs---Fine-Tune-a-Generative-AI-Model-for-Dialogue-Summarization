@@ -1,8 +1,6 @@
 # Gen-AI-with-LLMs---Fine-Tune-a-Generative-AI-Model-for-Dialogue-Summarization
 # Fine-Tuning FLAN-T5 for Dialogue Summarization 🚀
 
-![Fine-Tuning](https://img.shields.io/badge/Method-PEFT%20&%20Full%20Fine--Tuning-purple)
-
 This notebook provides a hands-on guide to **fine-tuning** an existing Large Language Model (LLM) from Hugging Face for enhanced dialogue summarization. You'll start with the powerful **FLAN-T5** model, a high-quality, instruction-tuned model that can summarize text out of the box.
 
 To improve its inferences on a specific dataset, you will explore and compare two core approaches: a **full fine-tuning** approach and **Parameter Efficient Fine-Tuning (PEFT)**. You will evaluate the results of both methods using **ROUGE metrics** to see firsthand how the benefits of PEFT (like reduced computational cost) often outweigh a slight difference in performance.
